@@ -1,0 +1,6 @@
+===================================API=================================================== 
+-Application Programming Interface
+-it is a messenger which sends data from one place to another
+-it will take "WHAT" but not "HOW"
+-EXAMPLE => through google api lot of website authenticate the user (sign in with google/facebook/etc)
+--------------API KEY (security key)    --- 1)security 2)monitoring
